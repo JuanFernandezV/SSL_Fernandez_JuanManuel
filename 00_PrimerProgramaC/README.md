@@ -1,0 +1,1 @@
+En este primer programa crearemos un archivo el cual resiva el texto desde la consola.
