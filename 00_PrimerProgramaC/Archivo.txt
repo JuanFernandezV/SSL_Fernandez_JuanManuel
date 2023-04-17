@@ -1,1 +1,1 @@
-Hola Mundo desde visual para guardar en un archivo
+ejemplo de programa en c, escribir en un archivo
